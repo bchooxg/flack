@@ -14,7 +14,7 @@ gevent==1.4.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
 gunicorn==22.0.0
-idna==2.8
+idna==3.7
 itsdangerous==1.1.0
 jellyfish==0.7.2
 Jinja2==2.10.3
